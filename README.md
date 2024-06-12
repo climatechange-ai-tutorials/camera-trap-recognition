@@ -12,7 +12,7 @@ We recommend executing this notebook in a Colab environment to gain access to GP
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Estimated time to execute end-to-end: 35 minutes 
+Estimated time to execute end-to-end: 10 minutes 
 
 ## Contribute to this tutorial
 
