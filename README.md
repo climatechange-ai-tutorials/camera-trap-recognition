@@ -4,7 +4,7 @@ The greatest logistical barrier to long-term wildlife monitoring with camera tra
 Author: 
 * Zhongqi Miao: zhongqimiao@microsoft.com
 
-Presented at CCAI Summer School 2023
+Presented at Climate Change AI Summer School 2023
 
 ## Access this tutorial
 
